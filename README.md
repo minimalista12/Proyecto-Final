@@ -1,6 +1,13 @@
 # TITULO DEL PROYECTO 
 
-One Paragraph of project description goes here
+  Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
+  ```
+ ¿Que querran los usuarios?  ¿Estaran buscando novedades en las aplicaciones?
+¿?
+ 
+```
+  
+  
 
 ## Subtitulo
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
