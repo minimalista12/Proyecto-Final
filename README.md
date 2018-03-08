@@ -7,8 +7,38 @@
   
   
 
-## Investigacion
+# Investigacion
 Con estas preguntas en mente comence la investigacion centrandome en las aplicaciones mas populares y usadas en el mercado. Me concentrare en aplicaciones por eso los software para aprender idiomas (como RosettaStone y Dexway) quedan descartados. 
+
+
+## Memrise 
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/memrise.png?raw=true " ")
+
+
+## HelloTalk 
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hellotalk1.png?raw=true " ")
+
+## Duolingo 
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo1.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo2.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo3.png?raw=true " ")
+
+
+
+## HiNative
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative1.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative2.png?raw=true " ")
+
+
+
+## Babbel 
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/babbel.png?raw=true " ")
+
+
+
+
+
+
 Entra las aplicaciones mas populare el debate es siempre el mismo:
 
 ¿Que aplicacion es superior?  ¿Quien ofrece mejor contenido?  
@@ -16,9 +46,9 @@ Entra las aplicaciones mas populare el debate es siempre el mismo:
 
 Este debate podria seguir eternamente pero mirando objetivamente todos tienen sus ventajas y desventajas. Ademas de un gran factor comun que de alguna maneras las une y las hace aun mas similares: 
 Todas (incluso las aplicaciones de pago) no tienen opcion de certificar o probar oficialmente el idioma aprendido.
-![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true "Optional Title")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true " ")
 
-Encontrando los puntos en comun descubrimos que mientras todos tienen defectos al mismo tiempo las debilidades de un programa son la fortaleza de otro.
+Encontrando los puntos en comun descubrimos que mientras todos tienen defectos, la mayoria del tiempo las debilidades de un programa son la fortaleza de otro.
 
 ### Prerequisites
 
