@@ -1,10 +1,13 @@
-# Project Title
+# TITULO DEL PROYECTO 
 
 One Paragraph of project description goes here
 
-## Getting Started
-
+## Subtitulo
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true "Optional Title")
+
+
 
 ### Prerequisites
 
