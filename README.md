@@ -1,11 +1,9 @@
 # TITULO DEL PROYECTO 
 
   Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
-  ```
- ¿Que querran los usuarios?  ¿Estaran buscando novedades en las aplicaciones?
-¿?
- 
-```
+
+* ¿Que opinaran los usuarios de esta situacion? ¿Habran notado algun problema?
+* ¿Estaran satisfechos?  ¿Les gustaria un cambio?
   
   
 
