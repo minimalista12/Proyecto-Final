@@ -21,13 +21,13 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 ## Duolingo 
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo1.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo2.png?raw=true " ")
-![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo3.png?raw=true " ")
-
 
 
 ## HiNative
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative1.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative2.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative3.png?raw=true " ")
+
 
 
 
