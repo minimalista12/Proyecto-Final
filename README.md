@@ -12,18 +12,22 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 
 
 ## Memrise 
+ [Sitio Oficial](https://www.memrise.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/memrise.png?raw=true " ")
 
 
 ## HelloTalk 
+ [Sitio Oficial](https://www.hellotalk.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hellotalk1.png?raw=true " ")
 
 ## Duolingo 
+ [Sitio Oficial](https://www.duolingo.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo1.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo2.png?raw=true " ")
 
 
 ## HiNative
+ [Sitio Oficial](https://hinative.com/es-MX)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative1.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative2.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative3.png?raw=true " ")
@@ -31,7 +35,8 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 
 
 
-## Babbel 
+## Babbel
+ [Sitio Oficial](https://www.babbel.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/babbel.png?raw=true " ")
 
 
