@@ -1,4 +1,4 @@
-# TITULO DEL PROYECTO 
+# PROYECTO  
 
   Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
 
@@ -9,10 +9,16 @@
 
 ## Investigacion
 Con estas preguntas en mente comence la investigacion centrandome en las aplicaciones mas populares y usadas en el mercado. Me concentrare en aplicaciones por eso los software para aprender idiomas (como RosettaStone y Dexway) quedan descartados. 
+Entra las aplicaciones mas populare el debate es siempre el mismo:
 
+¿Que aplicacion es superior?  ¿Quien ofrece mejor contenido?  
+¿Cual funciona mejor?  ¿Con que aplicacion aprendes mas?
+
+Este debate podria seguir eternamente pero mirando objetivamente todos tienen sus ventajas y desventajas. Ademas de un gran factor comun que de alguna maneras las une y las hace aun mas similares: 
+Todas (incluso las aplicaciones de pago) no tienen opcion de certificar o probar oficialmente el idioma aprendido.
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true "Optional Title")
 
-
+Encontrando los puntos en comun descubrimos que mientras todos tienen defectos al mismo tiempo las debilidades de un programa son la fortaleza de otro.
 
 ### Prerequisites
 
