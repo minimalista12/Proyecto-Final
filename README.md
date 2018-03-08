@@ -9,8 +9,8 @@
   
   
 
-## Subtitulo
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Investigacion
+Con estas preguntas en mente comence la investigacion centrandome en las aplicaciones mas populares y usadas en el mercado. Me concentrare en aplicaciones por eso los software para aprender idiomas (como RosettaStone y Dexway) quedan descartados. 
 
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true "Optional Title")
 
