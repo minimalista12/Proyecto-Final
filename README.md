@@ -7,7 +7,7 @@
   
   
 
-# Investigacion
+# INVESTIGACION
 Con estas preguntas en mente comence la investigacion centrandome en las aplicaciones mas populares y usadas en el mercado. Me concentrare en aplicaciones por eso los software para aprender idiomas (como RosettaStone y Dexway) quedan descartados. 
 
 
@@ -33,8 +33,6 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative3.png?raw=true " ")
 
 
-
-
 ## Babbel
  [Sitio Oficial](https://www.babbel.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/babbel.png?raw=true " ")
@@ -54,6 +52,17 @@ Todas (incluso las aplicaciones de pago) no tienen opcion de certificar o probar
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-08-09-33-docs.google.com.png?raw=true " ")
 
 Encontrando los puntos en comun descubrimos que mientras todos tienen defectos, la mayoria del tiempo las debilidades de un programa son la fortaleza de otro.
+
+
+# SONDEO REDES SOCIALES, FOCUSE GROUP Y ENTREVISTAS 
+
+Para lograr una representativilidad ideal debemos obtener opiniones lo mas diversas posibles. Por eso mi objetivo fue buscar usuarios de estas aplicaciones en los ambitos y plataformas mas variadas.
+
+
+## SONDEO REDES SOCIALES: 
+Buscar en foros dedicados estudianes o simples aficionados autodidactas en idiomas. 
+
+
 
 ### Prerequisites
 
