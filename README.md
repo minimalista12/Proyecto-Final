@@ -71,7 +71,7 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 
 ## FOCUS GROUP 
 
-Otra buena herramienta para descubrir las opiniones fue un focus group. Esto aclaro dudas sobre que esperan los usuarios de las aplicaciones para aprender idiomas y tambien porque dejan de usarlas. 
+Otra buena herramienta para descubrir las opiniones fue un focus group. Esto aclaro dudas sobre que esperan los usuarios de las aplicaciones para aprender idiomas y tambien porque dejan de usarlas.  En mi caso tengo un grupo de personas de las mas diversas edades (entre 15 y 45 años aprox) muy interesados en aprender idiomas nuevos y que activamente usan aplicaciones de este tipo. 
 
 
 
@@ -92,3 +92,7 @@ A partir de lo conversado con distintos usuarios que dieron todo tipo de feedbac
 
 
 [FOTO PROTOTIPO DIBUJADO A MANO]
+
+
+## TESTING 
+Con este prototipo fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo 
