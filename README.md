@@ -65,22 +65,23 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
-
-
-
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
+
 
 
 ## FOCUS GROUP 
 
 Otra buena herramienta para descubrir las opiniones fue un focus group. Esto aclaro dudas sobre que esperan los usuarios de las aplicaciones para aprender idiomas y tambien porque dejan de usarlas. 
 
+
+
+
 [FOTO GRUPO] 
 
 Conclusiones
-+
-+
-+
++  Deberia existir alguna forma de interactuar con nativos (que hablen el idioma) mientras aprendes y usas la aplicacion
++  Alguien te deberia corregir en tiempo real, no solo traducir correctamente sino explicarte el porque en cada caso
++  
 
 
 ## USER FLOW 
