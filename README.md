@@ -15,7 +15,6 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
  [Sitio Oficial](https://www.memrise.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/memrise.png?raw=true " ")
 
-
 ## HelloTalk 
  [Sitio Oficial](https://www.hellotalk.com/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hellotalk1.png?raw=true " ")
@@ -62,7 +61,10 @@ Para lograr una representativilidad ideal debemos obtener opiniones lo mas diver
 
 ## SONDEO REDES SOCIALES: 
 Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de idiomas quienes comparten sus experiencias y consejos en linea. Con este sondeo no solo descubrimos el publico que ocupa cada marca ademas supimos sus inquietudes y sugerencias para la app. 
-[IMG]
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
+
 
 
 
@@ -81,7 +83,7 @@ Conclusiones
 +
 
 
-## USESR FLOW 
+## USER FLOW 
 A partir de lo conversado con distintos usuarios que dieron todo tipo de feedback (incluso sugerencias muy especificas) comence a desarrollar el user flow ideal y como serian las distintas pantallas de esta nueva funcionalidad que Duolingo podria desarrollar. 
 
 
