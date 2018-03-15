@@ -71,7 +71,7 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 
 ## FOCUS GROUP 
 
-Otra buena herramienta para descubrir las opiniones fue un focus group. Esto aclaro dudas sobre que esperan los usuarios de las aplicaciones para aprender idiomas y tambien porque dejan de usarlas.  En mi caso tengo un grupo de personas de las mas diversas edades (entre 15 y 45 años aprox) muy interesados en aprender idiomas nuevos y que activamente usan aplicaciones de este tipo. 
+Otra buena actividad para recolectar las opiniones de usuarios fue un focus group. Esto aclaro dudas sobre que esperan los usuarios de las aplicaciones para aprender idiomas y tambien porque dejan de usarlas.  En mi caso tengo un grupo de personas de las mas diversas edades (entre 15 y 45 años aprox) muy interesados en aprender idiomas nuevos y que activamente usan aplicaciones de este tipo. 
 
 
 
@@ -83,16 +83,36 @@ Conclusiones
 +  Alguien te deberia corregir en tiempo real, no solo traducir correctamente sino explicarte el porque en cada caso
 +  
 
+# PROPUESTA DE VALOR 
+A partir de la investigacion y conversacion con distintos usuarios fue posible obtener una acabada propuesta de valor que parece reunir todo los elementos que podrian agradar a los usuarios
 
-## USER FLOW 
-A partir de lo conversado con distintos usuarios que dieron todo tipo de feedback (incluso sugerencias muy especificas) comence a desarrollar el user flow ideal y como serian las distintas pantallas de esta nueva funcionalidad que Duolingo podria desarrollar. 
+-Una red social para aprender idiomas: Puedes interactuar con aquellos que aprenden el mismo idioma que tu o puedes interactuar con usuarios que quieren aprender un idioma que tu ya dominas. Aqui puedes aprender pero tambien podras compartir tus conocimientos, enseñando y ayudando a otros. 
 
 
 
+# USER FLOW & WIREFRAME
+Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el diseño del user flow y el posterior wireframe 
+ 
+ 
+ FOTOS USER FLOW 
+ 
+ 
+ El wireframe esta basado en el user flow y tiene un poco de experiencias recogidas en el focus group. 
+ 
+ FOTOS WIREFRAME SIN ORDENAR 
+ 
+ FOTOS DEL WIREFRAME ORDENADO 
 
 
 [FOTO PROTOTIPO DIBUJADO A MANO]
 
 
-## TESTING 
-Con este prototipo fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo 
+# TESTING 
+Con este prototipo fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo pero que no estuviera del todo contenta con su actual configuracion. 
+
+
+
+
+# CONCLUSIONES 
+
+Ahora nos toca reunir las observaciones de la interaccion de los usuarios con el prototipo.
