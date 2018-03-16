@@ -94,15 +94,19 @@ A partir de la investigacion y conversacion con distintos usuarios fue posible o
 
 # USER FLOW & WIREFRAME
 Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el diseño del user flow y el posterior wireframe 
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/userflow.png?raw=true " ")
 
- 
- El wireframe esta basado en el user flow y tiene un poco de experiencias recogidas en el focus group. 
- 
+
+ El wireframe esta basado principalmente en el user flow pero tambien se aprendio un poco del focus group.
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/papel1.png?raw=true " ")
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/papel3.jpg?raw=true " ")
+
+
 
 
 
 # TESTING 
-Con este prototipo fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo pero que no estuviera del todo contenta con su actual configuracion. 
+Con este prototipo (de baja calidad) fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo pero que no estuviera del todo contenta con su actual configuracion. 
 
 ## Observaciones Generales
 
