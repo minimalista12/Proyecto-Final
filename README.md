@@ -75,44 +75,50 @@ Otra buena actividad para recolectar las opiniones de usuarios fue un focus grou
 
 
 
-
 [FOTO GRUPO] 
 
 Conclusiones
 +  Deberia existir alguna forma de interactuar con nativos (que hablen el idioma) mientras aprendes y usas la aplicacion
 +  Alguien te deberia corregir en tiempo real, no solo traducir correctamente sino explicarte el porque en cada caso
-+  
++  No me gusta jugar solo, si pudiera haber una opcion de jugar en grupo, igual que en la vida real es mas entretenido con mas personas
+
+
+
 
 # PROPUESTA DE VALOR 
 A partir de la investigacion y conversacion con distintos usuarios fue posible obtener una acabada propuesta de valor que parece reunir todo los elementos que podrian agradar a los usuarios
 
--Una red social para aprender idiomas: Puedes interactuar con aquellos que aprenden el mismo idioma que tu o puedes interactuar con usuarios que quieren aprender un idioma que tu ya dominas. Aqui puedes aprender pero tambien podras compartir tus conocimientos, enseñando y ayudando a otros. 
+-Una red social para aprender idiomas: Puedes interactuar con aquellos que aprenden el mismo idioma que tu o puedes interactuar con usuarios que quieren aprender un idioma que tu ya dominas. Aqui puedes aprender pero tambien podras compartir tus conocimientos, enseñando y ayudando a otros. A cambio podras dar y recibir puntos. Asi los usuarios que mas ayuden o compartan el mejor contenido seran reconocidos con altos puntajes y trofeos/
 
 
 
 # USER FLOW & WIREFRAME
 Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el diseño del user flow y el posterior wireframe 
- 
- 
- FOTOS USER FLOW 
- 
+
  
  El wireframe esta basado en el user flow y tiene un poco de experiencias recogidas en el focus group. 
  
- FOTOS WIREFRAME SIN ORDENAR 
- 
- FOTOS DEL WIREFRAME ORDENADO 
 
-
-[FOTO PROTOTIPO DIBUJADO A MANO]
 
 
 # TESTING 
 Con este prototipo fuimos en busca de los potenciales usuarios de esta aplicacion ... gente que ya sea usuario de Duolingo pero que no estuviera del todo contenta con su actual configuracion. 
+
+## Observaciones Generales
+
+- Usuarios detectan una falta de coherencia en algunos botones. Se podria ocupar palabras mas especificas para definir cada seccion
+- Usuarios sugieren cambiar el icono para acceder al menu 'Tutor friend' (Un boton que sugiera el concepto 'comunidad')
+- Usuarios no muestran mucho interes en el area del foro 
+- Usuarios aprecian el sistema de puntajes que permite premiar a otros usuarios cuando los ayuden pero tambien pueden ser recompensados   cuando ellos hacen lo mismo por otros usuarios 
+- Usarios sugieren mas instancias en las que se podria interactuar con usuarios y ganar puntos (eventos especiales y juegos grupales)
+- Usuarios preguntan (y esperan) ver que la distintiva mascota de Duolingo tenga un rol en esta nueva red social 
+- Usuarios 
 
 
 
 
 # CONCLUSIONES 
 
-Ahora nos toca reunir las observaciones de la interaccion de los usuarios con el prototipo.
+Basados en la experiencia de testing con usuarios podemos concluir que si bien quedan muchos elementos e interfaces por mejorar el producto resulto atractivo para la totalidad de usuarios. El formato no parece afectar su interes, algunos podrian necesitar un poco mas de instruccion respecto al sistema de puntos, los foros o los chats pero 
+
+Con las suficientes iteraciones seguramente podriamos llegar a un resultado que deje contenta a ambas partes. Nosotros vamos encaminados por la idea correcta y los usuarios (en su mayoria) parecen entuciasmados de poder armar una comunidad que gire entorno al interes comun de aprender idiomas. Ya sea interactuando con gente que hable tu idioma o hablantes nativos del idioma que te interesa esta red social parece ser el enfoque ideal que acomoda a los actuales usuarios de duolingo. 
