@@ -60,9 +60,15 @@ Para lograr una representativilidad ideal debemos obtener opiniones lo mas diver
 
 
 ## SONDEO REDES SOCIALES: 
-Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de idiomas quienes comparten sus experiencias y consejos en linea. Con este sondeo no solo descubrimos el publico que ocupa cada marca ademas supimos sus inquietudes y sugerencias para la app. 
+Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de idiomas quienes comparten sus experiencias y consejos en linea. Con este sondeo no solo descubrimos el publico que ocupa cada marca ademas supimos sus inquietudes y sugerencias para la app.
+
+Comentario original en Reddit  -[Comentario origianl en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
+
+Tweet original en twitter - [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
+
+Tweet original en twitter - [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
