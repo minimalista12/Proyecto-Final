@@ -66,9 +66,11 @@ Comentario original en Reddit  -[Comentario origianl en Reddit](https://www.redd
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
 Tweet original en twitter - [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
 Tweet original en twitter - [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
+
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
@@ -129,6 +131,6 @@ Con este prototipo (de baja calidad) fuimos en busca de los potenciales usuarios
 
 # CONCLUSIONES 
 
-Basados en la experiencia de testing con usuarios podemos concluir que si bien quedan muchos elementos e interfaces por mejorar el producto resulto atractivo para la totalidad de usuarios. El formato no parece afectar su interes, algunos podrian necesitar un poco mas de instruccion respecto al sistema de puntos, los foros o los chats pero 
+Basados en la investigacion y posterior experiencia de testing con usuarios podemos concluir que si bien quedan muchos elementos e interfaces por mejorar el producto (al menos su idea base) resulto bastante atractivo para la totalidad de usuarios. El formato no parece afectar su interes, algunos podrian necesitar un poco mas de instruccion respecto al sistema de puntos, los foros o los chats pero sus ganas de acceder a esta red social definitivamente nos deja con una nota positiva de que esta extension para duolingo tendria buen futuro y acogida entre los usuarios. 
 
 Con las suficientes iteraciones seguramente podriamos llegar a un resultado que deje contenta a ambas partes. Nosotros vamos encaminados por la idea correcta y los usuarios (en su mayoria) parecen entuciasmados de poder armar una comunidad que gire entorno al interes comun de aprender idiomas. Ya sea interactuando con gente que hable tu idioma o hablantes nativos del idioma que te interesa esta red social parece ser el enfoque ideal que acomoda a los actuales usuarios de duolingo. 
