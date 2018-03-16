@@ -62,14 +62,14 @@ Para lograr una representativilidad ideal debemos obtener opiniones lo mas diver
 ## SONDEO REDES SOCIALES: 
 Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de idiomas quienes comparten sus experiencias y consejos en linea. Con este sondeo no solo descubrimos el publico que ocupa cada marca ademas supimos sus inquietudes y sugerencias para la app.
 
-Comentario original en Reddit  -[Comentario origianl en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
+Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit -[Comentario origianl en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
-Tweet original en twitter - [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+Tweet encontrado bajo el hashtag #Duolingo en twitter - [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
-Tweet original en twitter - [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
+Tweet encontrado bajo el hashtag #Memrise en twitter - [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 
 ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
@@ -124,9 +124,6 @@ Con este prototipo (de baja calidad) fuimos en busca de los potenciales usuarios
 - Usuarios aprecian el sistema de puntajes que permite premiar a otros usuarios cuando los ayuden pero tambien pueden ser recompensados   cuando ellos hacen lo mismo por otros usuarios 
 - Usarios sugieren mas instancias en las que se podria interactuar con usuarios y ganar puntos (eventos especiales y juegos grupales)
 - Usuarios preguntan (y esperan) ver que la distintiva mascota de Duolingo tenga un rol en esta nueva red social 
-- Usuarios 
-
-
 
 
 # CONCLUSIONES 
@@ -134,3 +131,7 @@ Con este prototipo (de baja calidad) fuimos en busca de los potenciales usuarios
 Basados en la investigacion y posterior experiencia de testing con usuarios podemos concluir que si bien quedan muchos elementos e interfaces por mejorar el producto (al menos su idea base) resulto bastante atractivo para la totalidad de usuarios. El formato no parece afectar su interes, algunos podrian necesitar un poco mas de instruccion respecto al sistema de puntos, los foros o los chats pero sus ganas de acceder a esta red social definitivamente nos deja con una nota positiva de que esta extension para duolingo tendria buen futuro y acogida entre los usuarios. 
 
 Con las suficientes iteraciones seguramente podriamos llegar a un resultado que deje contenta a ambas partes. Nosotros vamos encaminados por la idea correcta y los usuarios (en su mayoria) parecen entuciasmados de poder armar una comunidad que gire entorno al interes comun de aprender idiomas. Ya sea interactuando con gente que hable tu idioma o hablantes nativos del idioma que te interesa esta red social parece ser el enfoque ideal que acomoda a los actuales usuarios de duolingo. 
+
+En un futuro esperamos realizar mejoras basadas en los comentarios de usuarios y los correspondientes stakeholders. 
+
+PARA ACCEDER A LA CARPETA DE PROYECTO  [LINK CARPETA DRIVE](https://drive.google.com/drive/folders/1XMHPcbe7SM0NZbfXUVZtRjpN4kwgKLoc)
