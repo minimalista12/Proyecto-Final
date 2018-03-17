@@ -116,16 +116,17 @@ Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el dise√
  Al entrar se le presentan 2 opciones, entrar a los grupo de estudio o entrar a un chat privado con un tutor  
  ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo3.jpg?raw=true " ") 
  
- Al entrar a los grupos de estudio, estos estan separados entre los idiomas que le interesan al usuario, 
+ Al entrar a los grupos de estudio, estos estan separados entre los idiomas que le interesan al usuario
  este usuario entra al grupo de estudio de ingles
  ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo4.jpg?raw=true " ") 
+ 
  Los grupos de estudio a su vez se separan en distintos chats tematicos
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo5.jpg?raw=true " ") 
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo5.jpg?raw=true " ") }
+ 
  En el ejemplo (y en el testing tambien) se hace que la persona entro al chat de los modismos
  ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo6.jpg?raw=true " ") 
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo7.jpg?raw=true " ") 
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo8.jpg?raw=true " ") 
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo9.jpg?raw=true " ")
+ 
+El resto del testing se puede ver en el enlace de marvel: [https://marvelapp.com/84f1a7e/screen/39869696](https://marvelapp.com/84f1a7e/screen/39869696)
 
 
 
