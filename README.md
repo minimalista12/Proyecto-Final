@@ -102,12 +102,26 @@ A partir de la investigacion y conversacion con distintos usuarios fue posible o
 
 # USER FLOW & WIREFRAME
 Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el diseño del user flow y el posterior wireframe 
-![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/userflow.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/nuevo1.jpg?raw=true " ")
 
 
- El wireframe esta basado principalmente en el user flow pero tambien se aprendio un poco del focus group.
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/papel1.png?raw=true " ")
- ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/papel3.jpg?raw=true " ")
+ El wireframe esta basado principalmente en el user flow pero tambien se aprendio un poco del focus group:
+ Se parte en con la usual pantalla de inicio de Duolingo, mostrando todos los cursos que el usuario ha completado
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo1.jpg?raw=true " ")
+ En el menu se agrega el icono 💬 para que el usuario puedo acceder desde el principio
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo2.jpg?raw=true " ") 
+ Al entrar se le presentan 2 opciones, entrar a los grupo de estudio o entrar a un chat privado con un tutor  
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo3.jpg?raw=true " ") 
+ Al entrar a los grupos de estudio, estos estan separados entre los idiomas que le interesan al usuario, 
+ este usuario entra al grupo de estudio de ingles
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo4.jpg?raw=true " ") 
+ Los grupos de estudio a su vez se separan en distintos chats tematicos
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo5.jpg?raw=true " ") 
+ En el ejemplo (y en el testing tambien) se hace que la persona entro al chat de los i
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo6.jpg?raw=true " ") 
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo7.jpg?raw=true " ") 
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo8.jpg?raw=true " ") 
+ ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo9.jpg?raw=true " ")
 
 
 
