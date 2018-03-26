@@ -1,5 +1,5 @@
 # PROYECTO UX: COMO MEJORARIA DUOLINGO
-![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/unnamed_p54v.png?raw=true " ") ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
 
 
