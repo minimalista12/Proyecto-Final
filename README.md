@@ -1,4 +1,4 @@
-# Proyecto UX: ¿Como Mejoraria Duolingo?
+# Proyecto UX -¿Como Mejoraria Duolingo?
 ![duolingo1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
 ## Introduccion 
@@ -70,6 +70,7 @@ Tweet encontrado bajo el hashtag #Duolingo en twitter - [Tweet original](https:/
 
  Tweet encontrado bajo el hashtag #Memrise en twitter - [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![comentario3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
+
 
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
 
