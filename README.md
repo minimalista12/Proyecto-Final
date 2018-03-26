@@ -1,4 +1,6 @@
 # PROYECTO UX: COMO MEJORARIA DUOLINGO
+![Alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")
+
 
 Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Quiza hay demasiado de lo mismo pero ya llegaron a un punto donde parece que nadie sabe en que innovar. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
 
