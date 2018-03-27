@@ -16,28 +16,28 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 
 
 ### Memrise 
- [Sitio Oficial](https://www.memrise.com/)
+[Sitio Oficial](https://www.memrise.com/)
 ![memrise](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/memrise.png?raw=true " ")
 
 ### HelloTalk 
- [Sitio Oficial](https://www.hellotalk.com/)
+[Sitio Oficial](https://www.hellotalk.com/)
 ![hellotalk](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hellotalk1.png?raw=true " ")
 
 ### Duolingo 
- [Sitio Oficial](https://www.duolingo.com/)
+[Sitio Oficial](https://www.duolingo.com/)
 ![oficiladuolingo1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo1.png?raw=true " ")
 ![oficialduoling2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Duolingo2.png?raw=true " ")
 
 
 ### HiNative
- [Sitio Oficial](https://hinative.com/es-MX)
+[Sitio Oficial](https://hinative.com/es-MX)
 ![hinative1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative1.png?raw=true " ")
 ![hinative2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative2.png?raw=true " ")
 ![hinative3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/Hinative3.png?raw=true " ")
 
 
 ### Babbel
- [Sitio Oficial](https://www.babbel.com/)
+[Sitio Oficial](https://www.babbel.com/)
 ![babbel](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/babbel.png?raw=true " ")
 
 
@@ -63,13 +63,13 @@ Para lograr una representativilidad ideal debemos obtener opiniones lo mas diver
 ### Sondeo Redes Sociales:
 Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de idiomas quienes comparten sus experiencias y consejos en linea. Con este sondeo no solo descubrimos el publico que ocupa cada marca ademas supimos sus inquietudes y sugerencias para la app.
 
-Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit  [Comentario original en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
+Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit [Comentario original en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![comentario1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Duolingo en twitter [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+Tweet encontrado bajo el hashtag #Duolingo en twitter[Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 ![comentario2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Memrise en twitter [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
+Tweet encontrado bajo el hashtag #Memrise en twitter[Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![comentario3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
 
