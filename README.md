@@ -8,7 +8,7 @@
 Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Quiza hay demasiado de lo mismo pero ya llegaron a un punto donde parece que nadie sabe en que innovar. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
 
 * ¿Que opinaran los usuarios de esta situacion? ¿Habran notado algun problema?
-* ¿Estaran satisfechos?  ¿Les gustaria un cambio?
+* ¿Estaran satisfechos? ¿Les gustaria un cambio?
 
 
 ## Investigacion
@@ -45,8 +45,8 @@ Con estas preguntas en mente comence la investigacion centrandome en las aplicac
 
 Entra las aplicaciones mas populare el debate es siempre el mismo:
 
-¿Que aplicacion es superior?  ¿Quien ofrece mejor contenido?  
-¿Cual funciona mejor?  ¿Con que aplicacion aprendes mas?
+¿Que aplicacion es superior? ¿Quien ofrece mejor contenido?  
+¿Cual funciona mejor? ¿Con que aplicacion aprendes mas?
 
 Este debate podria seguir eternamente pero mirando objetivamente todos tienen sus ventajas y desventajas. Ademas de un gran factor comun que de alguna maneras las une y las hace aun mas similares: 
 Todas (incluso las aplicaciones de pago) no tienen la opcion de certificar o probar oficialmente el idioma aprendido.
@@ -67,12 +67,11 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit [Comentario original en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![comentario1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Duolingo en twitter[Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+Tweet encontrado bajo el hashtag #Duolingo en twitter [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 ![comentario2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
 Tweet encontrado bajo el hashtag #Memrise en twitter[Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![comentario3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
-
 
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
 
@@ -102,25 +101,25 @@ Teniendo nuestra propuesta de valor ya establecida pudimos comenzar con el dise�
 ![userflow](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/nuevo1.jpg?raw=true " ")
 
 
- El wireframe esta basado principalmente en el user flow pero tambien se aprendio un poco del focus group:
+El wireframe esta basado principalmente en el user flow pero tambien se aprendio un poco del focus group:
+
+Se parte en con la usual pantalla de inicio de Duolingo, mostrando todos los cursos que el usuario ha completado
+![pantalla1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo1.jpg?raw=true " ")
  
- Se parte en con la usual pantalla de inicio de Duolingo, mostrando todos los cursos que el usuario ha completado
- ![pantalla1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo1.jpg?raw=true " ")
- 
- En el menu se agrega el icono 💬 para que el usuario puedo acceder desde el principio
+En el menu se agrega el icono 💬 para que el usuario puedo acceder desde el principio
  ![pantalla2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo2.jpg?raw=true " ")
  
- Al entrar se le presentan 2 opciones, entrar a los grupo de estudio o entrar a un chat privado con un tutor  
+Al entrar se le presentan 2 opciones, entrar a los grupo de estudio o entrar a un chat privado con un tutor  
  ![pantalla3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo3.jpg?raw=true " ") 
  
- Al entrar a los grupos de estudio, estos estan separados entre los idiomas que le interesan al usuario
+Al entrar a los grupos de estudio, estos estan separados entre los idiomas que le interesan al usuario
  este usuario entra al grupo de estudio de ingles
  ![pantalla4](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo4.jpg?raw=true " ") 
  
- Los grupos de estudio a su vez se separan en distintos chats tematicos
+Los grupos de estudio a su vez se separan en distintos chats tematicos
  ![pantalla5](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo5.jpg?raw=true " ") }
  
- En el ejemplo (y en el testing tambien) se hace que la persona entro al chat de los modismos
+En el ejemplo (y en el testing tambien) se hace que la persona entro al chat de los modismos
  ![pantalla6](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo6.jpg?raw=true " ") 
  
 El resto del testing se puede ver en el enlace de marvel: [https://marvelapp.com/84f1a7e/screen/39869696](https://marvelapp.com/84f1a7e/screen/39869696)
