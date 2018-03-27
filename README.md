@@ -1,6 +1,5 @@
 # Proyecto UX-¿Como Mejoraria Duolingo?
-![1_f7pkhjknu88fg6jlscmpdq](https://user-images.githubusercontent.com/32286745/37945978-4d39616c-3159-11e8-88f3-9fcdf614cb27.png)
- ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
+![1_f7pkhjknu88fg6jlscmpdq](https://user-images.githubusercontent.com/32286745/37945978-4d39616c-3159-11e8-88f3-9fcdf614cb27.png) ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
 
 ## Introduccion 
@@ -67,10 +66,10 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit [Comentario original en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![comentario1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Duolingo en twitter [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+Tweet encontrado bajo el hashtag "Duolingo" en twitter [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 ![comentario2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Memrise en twitter[Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
+Tweet encontrado bajo el hashtag "Memrise" en twitter[Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![comentario3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
 (Dado que todas estas aplicaciones tienen mejor acogida en paises anglosajones tuvimos extensas opiniones y debates en ingles)
