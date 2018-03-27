@@ -1,6 +1,8 @@
 # Proyecto UX-¿Como Mejoraria Duolingo?
 ![duolingo1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
+https://user-images.githubusercontent.com/32286745/37945606-5d08a582-3157-11e8-8b48-06b728c30f18.png
+
 ## Introduccion 
 
 Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas opciones, pero esta variedad de programas es muy similar entre si. Quiza hay demasiado de lo mismo pero ya llegaron a un punto donde parece que nadie sabe en que innovar. Ante esta falta de originalidad se me ocurrio plantear las siguientes interrogantes:
