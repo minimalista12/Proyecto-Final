@@ -1,7 +1,6 @@
 # Proyecto UX-¿Como Mejoraria Duolingo?
 ![duolingo1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
-https://user-images.githubusercontent.com/32286745/37945606-5d08a582-3157-11e8-8b48-06b728c30f18.png
 
 ## Introduccion 
 
@@ -11,7 +10,7 @@ Si hablamos de aplicaciones para aprender idiomas el mercado nos ofrece muchas o
 * ¿Estaran satisfechos?  ¿Les gustaria un cambio?
 
 
-##  Investigacion
+## Investigacion
 
 Con estas preguntas en mente comence la investigacion centrandome en las aplicaciones mas populares y usadas en el mercado. Me concentrare en aplicaciones por eso los software para aprender idiomas (como RosettaStone y Dexway) quedan descartados. 
 
@@ -67,10 +66,10 @@ Buscar en foros dedicados estudiantes o simples aficionados al aprendizaje de id
 Comentario extraido del hilo "How far have you gotten with either Babbel, Menrise, Bussu o Duolingo" en Reddit  [Comentario original en Reddit](https://www.reddit.com/r/languagelearning/comments/6cpf44/how_far_have_you_gotten_with_either_duolingo_or/)
 ![comentario1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-09-11-23-www.reddit.com.png?raw=true " ")
 
-Tweet encontrado bajo el hashtag #Duolingo en twitter  [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
+Tweet encontrado bajo el hashtag #Duolingo en twitter [Tweet original](https://twitter.com/archer_liv/status/969697252376690689)
 ![comentario2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-13-53-twitter.com.png?raw=true " ")
 
- Tweet encontrado bajo el hashtag #Memrise en twitter  [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
+Tweet encontrado bajo el hashtag #Memrise en twitter [Tweet original](https://twitter.com/trontsephore/status/941245600158318593)
 ![comentario3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/2018-03-13-20-56-twitter.com.png?raw=true " ")
 
 
