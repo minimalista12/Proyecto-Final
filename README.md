@@ -1,5 +1,6 @@
 # Proyecto UX-¿Como Mejoraria Duolingo?
-![duolingo1](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/1_F7pKhJKNU88fG6jlSCMpDQ.png?raw=true " ")  ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
+![1_f7pkhjknu88fg6jlscmpdq](https://user-images.githubusercontent.com/32286745/37945978-4d39616c-3159-11e8-88f3-9fcdf614cb27.png)
+ ![duolingo2](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/trophy_1x.png?raw=true " ") ![duolingo3](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/duo.png?raw=true " ")
 
 
 ## Introduccion 
